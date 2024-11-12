@@ -1,6 +1,6 @@
 # Uppladdade uppgifter för IOT-embedded 
 
-## Min repo för att lära känna github och även pusha upp en uppgift i utbildningen.
+## Min repo för att lära mig github 
 
 ---
 ---
