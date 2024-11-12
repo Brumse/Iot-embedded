@@ -4,6 +4,7 @@
 
 ---
 ---
-- Uppgift6 c++
-- Test med Yml fil till c++
+# C++
+- Uppgift6 
+- Test med Yml fil
 
