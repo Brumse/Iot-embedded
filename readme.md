@@ -1,7 +1,5 @@
-# Uppgift 6
+Test för att hantera yaml# 
 
-Johans repo för uppgift 6 på sin utbildning.
+Min repo för att lära känna github och även pusha upp en uppgift i utbildningen.
 
-## Contact
 
-Johan i Solna
