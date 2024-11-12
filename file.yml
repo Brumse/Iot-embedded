@@ -1,0 +1,14 @@
+#Min test Yaml
+
+name: John Doe
+age: 30
+items:
+    - apple
+    - banana
+    - cherry
+    - orange
+    - pear
+
+#testkommentar
+isMarried: no
+hasCar: yes
